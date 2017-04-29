@@ -1,3 +1,5 @@
+# A demonstration on how Character Entities work.
+
 import htlib
 from htlib.basicinfo import *
 
